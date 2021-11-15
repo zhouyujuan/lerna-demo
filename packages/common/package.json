@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "gt-common-1",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "zhouyujuan <zhouyujuan@baijia.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/zhouyujuan/lerna-demo/issues"
-  }
+  },
+  "gitHead": "e21717f4a93ee75035ff9c0774d6645ae5dbec8f"
 }
