@@ -1,6 +1,6 @@
 {
   "name": "teacher-sdk",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1-alpha.01",
   "description": "> TODO: description",
   "author": "zhouyujuan <zhouyujuan@baijia.com>",
   "homepage": "https://github.com/zhouyujuan/lerna-demo#readme",
@@ -18,9 +18,11 @@
     "url": "git+https://github.com/zhouyujuan/lerna-demo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "add": "leran add common --scope-teacher-sdk #"
   },
   "bugs": {
     "url": "https://github.com/zhouyujuan/lerna-demo/issues"
-  }
+  },
+  "gitHead": "b4ef848cee7c2a7b22ad817037e0d60e0fe75959"
 }

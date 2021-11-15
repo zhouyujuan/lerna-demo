@@ -1,11 +1,11 @@
 {
-  "name": "student-sdk",
-  "version": "1.0.1-alpha.01",
+  "name": "common",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "zhouyujuan <zhouyujuan@baijia.com>",
   "homepage": "https://github.com/zhouyujuan/lerna-demo#readme",
   "license": "ISC",
-  "main": "lib/student-sdk.js",
+  "main": "lib/common.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/zhouyujuan/lerna-demo/issues"
-  },
-  "gitHead": "b4ef848cee7c2a7b22ad817037e0d60e0fe75959"
+  }
 }
